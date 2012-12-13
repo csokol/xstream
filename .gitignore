@@ -1,0 +1,7 @@
+.svn/
+*.class
+*.jar
+target/
+bin/
+.project
+.classpath
